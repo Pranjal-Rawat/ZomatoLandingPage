@@ -1,11 +1,9 @@
 "# ZomatoLandingPage"
 
-First click ctrl+s then proceed so thath the 'M' markdown can come
-after modifying do
+First write the modifications and then ctrl+s the 'M' markdown can come
 git add .
 git commit -m ""
 git push origin main
-Do it until the green line at the left side whwere the numbers are again and again ctr+s until the green lines are gone
 
 #changed inside guthub editor ahhahahhaha
 
