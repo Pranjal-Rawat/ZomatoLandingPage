@@ -7,7 +7,6 @@ git commit -m ""
 git push origin main
 Do it until the green line at the left side whwere the numbers are again and again ctr+s until the green lines are gone
 
-
 #changed inside guthub editor ahhahahhaha
 
 
