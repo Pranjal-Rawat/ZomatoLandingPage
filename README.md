@@ -26,3 +26,12 @@ class="cards
 
 section1_card_body
 section2_card_body
+
+
+grid In css
+2d structure
+
+media queries are must here
+
+
+Grid template coloumn: 1fragment(fr) 2fr 1fr 2fr
