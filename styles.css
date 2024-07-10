@@ -29,7 +29,6 @@
 .navbar__menu_container{
   display: flex;
   gap: 18px;
-  /* padding-right: 18px; */
 }
 
 .navbar__menu_container .user_icon{
